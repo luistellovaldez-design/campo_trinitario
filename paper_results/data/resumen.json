@@ -1,0 +1,25 @@
+{
+  "timestamp": "20260502_041948",
+  "resultados": {
+    "Foton (cuantico puro)": {
+      "Gamma_inicial": 0.001,
+      "Gamma_final": 2.154038171667456,
+      "masa_relativa_final": 0.682946132680656
+    },
+    "Electron (dual)": {
+      "Gamma_inicial": 0.5,
+      "Gamma_final": 2.769449130220955,
+      "masa_relativa_final": 0.7347092465096133
+    },
+    "Proton (clasico)": {
+      "Gamma_inicial": 2.0,
+      "Gamma_final": 3.428659047498781,
+      "masa_relativa_final": 0.774198015861081
+    },
+    "Materia Oscura (estable)": {
+      "Gamma_inicial": 0.05,
+      "Gamma_final": 1.33677479191,
+      "masa_relativa_final": 0.5720597451401664
+    }
+  }
+}
