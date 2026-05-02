@@ -60,6 +60,5 @@ La **Gradiente de Acoplamiento Γ** mide la cohesión entre estos componentes:
 @misc{fluxus2026campos,
   author = {Estudiante Fluxus},
   title = {Campos Trinitarios y Gradiente de Acoplamiento},
-  year = {2026},
-  url = {https://github.com/TU_USUARIO/campos-trinitarios}
+  year = {2026}, 
 }
