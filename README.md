@@ -48,7 +48,7 @@ La **Gradiente de Acoplamiento Γ** mide la cohesión entre estos componentes:
 | Archivo | Descripción |
 |---------|-------------|
 | `campo_trinitario.py` | Código de simulación numérica |
-| `presentacion_fluxus.html` | Presentación interactiva (abrir en navegador) |
+| `[presentacion_fluxus.html](https://github.com/luistellovaldez-design/campo_trinitario/blob/main/presentacion_fluxus.html) - Presentación interactiva (haz clic para ver el código o activa GitHub Pages para verla online)` | Presentación interactiva (abrir en navegador) |
 | `paper_results/` | Figuras y tablas listas para publicación |
 | `resultados_fluxus/` | Datos numéricos de simulación |
 
